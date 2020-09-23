@@ -21,7 +21,7 @@ Mountain fold the top line of the shape (the second line from the top of all the
 
 ## What's more?
 Follow these steps, you can now make a lot of different pop-ups! Here are some examples:
-  |  
+Instruction images|Final pop-ups
 ------------ | -------------
 ![letter pop up](https://github.com/Ruhan-Yang/basic-popup/blob/master/letter%20popup.png)|![letter popup] (https://github.com/Ruhan-Yang/basic-popup/blob/master/letter%20popup.jpg)
 The red line represents the mountain fold and the blue line represents the valley fold. I usually use black lines to indicate cuts.
