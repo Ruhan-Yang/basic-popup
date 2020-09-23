@@ -25,4 +25,4 @@ Instruction images|Final pop-ups
 ------------ | -------------
 ![](https://github.com/Ruhan-Yang/basic-popup/blob/master/letter%20popup.png)|![](https://github.com/Ruhan-Yang/basic-popup/blob/master/letter%20popup.jpg)
 
-The red line represents the mountain fold and the blue line represents the valley fold. I usually use black lines to indicate cuts.
+The red line represents the mountain fold and the blue line represents the valley fold. I usually use black lines to indicate cuts. Feel free to download the [dxf file](https://github.com/Ruhan-Yang/basic-popup/blob/master/letter%20popup.dxf), print, cut, and pop them up!
