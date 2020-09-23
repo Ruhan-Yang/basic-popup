@@ -1,4 +1,4 @@
-# basic-popup
+# Basic Pop-up
 This describes how to make the basic pop-up with the rectangles.
 
 ## What you need
@@ -8,3 +8,6 @@ It's always a good idea to also prepare a ruler, you will need to draw and cut s
 
 ![Image of step 0](https://github.com/Ruhan-Yang/basic-popup/blob/master/Steps/Step%200.jpg)
 
+## Let's make a pop-up
+Step 1: Draw something you like| Content from cell 2
+Content in the first column | Content in the second column
